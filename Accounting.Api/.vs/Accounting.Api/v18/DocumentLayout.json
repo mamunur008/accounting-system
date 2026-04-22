@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nuxt\\accounting-system\\Accounting.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\controllers\\accountingperiodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:controllers\\accountingperiodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\controllers\\journalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:controllers\\journalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\models\\accountingperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:models\\accountingperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\models\\journalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:models\\journalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|d:\\nuxt\\accounting-system\\accounting.api\\accounting.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD48AB12-6FF7-E84D-5C03-BFA00003184F}|Accounting.Api.csproj|solutionrelative:accounting.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountingPeriodsController.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\AccountingPeriodsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountingPeriodsController.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\AccountingPeriodsController.cs",
+              "RelativeToolTip": "Controllers\\AccountingPeriodsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:48:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountingPeriod.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\AccountingPeriod.cs",
+              "RelativeDocumentMoniker": "Models\\AccountingPeriod.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\AccountingPeriod.cs",
+              "RelativeToolTip": "Models\\AccountingPeriod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:46:47.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv1oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:35:26.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv5cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:46:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JournalsController.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\JournalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JournalsController.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\JournalsController.cs",
+              "RelativeToolTip": "Controllers\\JournalsController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAADwv7sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:49:41.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JournalEntry.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\JournalEntry.cs",
+              "RelativeDocumentMoniker": "Models\\JournalEntry.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\JournalEntry.cs",
+              "RelativeToolTip": "Models\\JournalEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:40:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T15:54:41.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv6kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T15:46:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:35:11.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JournalLine.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\JournalLine.cs",
+              "RelativeDocumentMoniker": "Models\\JournalLine.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Models\\JournalLine.cs",
+              "RelativeToolTip": "Models\\JournalLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:44:01.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:22:32.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T17:21:03.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T15:59:41.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Accounting.Api.csproj",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Accounting.Api.csproj",
+              "RelativeDocumentMoniker": "Accounting.Api.csproj",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Accounting.Api.csproj",
+              "RelativeToolTip": "Accounting.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T15:40:05.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Nuxt\\accounting-system\\Accounting.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T14:35:55.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
